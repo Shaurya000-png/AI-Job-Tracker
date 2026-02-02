@@ -29,7 +29,17 @@ exports.reminderValidation = [
     body('job')
         .optional()
         .isMongoId()
-        .withMessage('Please provide a valid job ID')
+        .withMessage('Please provide a valid job ID'),
+
+    body('category')
+        .optional()
+        .isIn(['Interview', 'OA', 'Follow-up', 'Networking', 'Technical Prep', 'Other'])
+        .withMessage('Invalid category'),
+
+    body('tags')
+        .optional()
+        .isArray()
+        .withMessage('Tags must be an array')
 ];
 
 // Middleware to check validation results

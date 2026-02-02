@@ -81,6 +81,30 @@ const jobSchema = new mongoose.Schema({
         type: String,
         trim: true
     },
+    contacts: [{
+        name: {
+            type: String,
+            required: true
+        },
+        role: String,
+        email: String,
+        phone: String,
+        linkedIn: String
+    }],
+    interviewRounds: [{
+        roundName: String,
+        type: {
+            type: String,
+            enum: ['Technical', 'Behavioral', 'System Design', 'HR', 'Case Study', 'Other']
+        },
+        date: Date,
+        notes: String,
+        interviewer: String,
+        status: {
+            type: String,
+            enum: ['Pending', 'Completed', 'Cancelled']
+        }
+    }],
     isDeleted: {
         type: Boolean,
         default: false,

@@ -48,6 +48,27 @@ const reminderSchema = new mongoose.Schema({
         enum: ['Low', 'Medium', 'High'],
         default: 'Medium'
     },
+    category: {
+        type: String,
+        enum: ['Interview', 'OA', 'Follow-up', 'Networking', 'Technical Prep', 'Other'],
+        default: 'Other'
+    },
+    tags: [{
+        type: String,
+        trim: true
+    }],
+    activityLog: [{
+        action: {
+            type: String,
+            required: true
+        },
+        oldValue: String,
+        newValue: String,
+        timestamp: {
+            type: Date,
+            default: Date.now
+        }
+    }],
     isDeleted: {
         type: Boolean,
         default: false,

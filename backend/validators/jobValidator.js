@@ -72,7 +72,24 @@ const jobValidation = [
 
     body('resumeVersion')
         .optional({ checkFalsy: true })
-        .trim()
+        .trim(),
+
+    body('contacts')
+        .optional()
+        .isArray().withMessage('Contacts must be an array'),
+
+    body('contacts.*.name')
+        .if(body('contacts').exists())
+        .notEmpty().withMessage('Contact name is required'),
+
+    body('interviewRounds')
+        .optional()
+        .isArray().withMessage('Interview rounds must be an array'),
+
+    body('interviewRounds.*.type')
+        .optional()
+        .isIn(['Technical', 'Behavioral', 'System Design', 'HR', 'Case Study', 'Other'])
+        .withMessage('Invalid interview round type')
 ];
 
 // Middleware to check validation results
