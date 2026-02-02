@@ -6,7 +6,7 @@
 
 1. **Navigate to backend directory:**
    ```bash
-   cd C:\Users\ayush\.gemini\antigravity\scratch\job-tracker\backend
+   cd backend
    ```
 
 2. **Install dependencies** (if not already done):
@@ -29,7 +29,7 @@
 
 1. **Navigate to frontend directory:**
    ```bash
-   cd C:\Users\ayush\.gemini\antigravity\scratch\job-tracker\frontend
+   cd frontend
    ```
 
 2. **Dependencies are already installed**
@@ -124,8 +124,7 @@ Build output will be in `frontend/dist/` directory.
 ## 📚 Documentation
 
 - **API Reference**: `backend/API_REFERENCE.md`
-- **Implementation Plan**: See artifacts
-- **Walkthrough**: See artifacts
+- **Documentation**: See individual modules for details.
 
 ---
 
