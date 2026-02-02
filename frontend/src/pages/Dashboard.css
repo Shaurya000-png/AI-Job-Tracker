@@ -1,0 +1,127 @@
+.dashboard {
+    max-width: 1400px;
+}
+
+.page-header {
+    margin-bottom: 2rem;
+}
+
+.page-header h1 {
+    margin-bottom: 0.25rem;
+}
+
+.page-header p {
+    color: var(--color-text-secondary);
+}
+
+.stats-grid {
+    margin-bottom: 2rem;
+}
+
+.stat-card {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 1.5rem;
+}
+
+.stat-icon {
+    font-size: 2.5rem;
+}
+
+.stat-content {
+    flex: 1;
+}
+
+.stat-label {
+    font-size: 0.875rem;
+    color: var(--color-text-secondary);
+    margin-bottom: 0.25rem;
+}
+
+.stat-value {
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--color-text);
+}
+
+.charts-grid {
+    margin-bottom: 2rem;
+}
+
+.chart-container {
+    margin-top: 1rem;
+}
+
+.card-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+}
+
+.card-header h3 {
+    margin: 0;
+}
+
+.reminders-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+}
+
+.reminder-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+    background: var(--color-bg-secondary);
+    border-radius: var(--radius-md);
+}
+
+.reminder-info {
+    flex: 1;
+}
+
+.reminder-title {
+    font-weight: 500;
+    color: var(--color-text);
+    margin-bottom: 0.25rem;
+}
+
+.reminder-meta {
+    font-size: 0.813rem;
+    color: var(--color-text-secondary);
+    display: flex;
+    gap: 1rem;
+}
+
+.priority-high {
+    background: #FEE2E2;
+    color: #991B1B;
+}
+
+.priority-medium {
+    background: #FEF3C7;
+    color: #92400E;
+}
+
+.priority-low {
+    background: #E5E7EB;
+    color: #374151;
+}
+
+.dark .priority-high {
+    background: #7F1D1D;
+    color: #FCA5A5;
+}
+
+.dark .priority-medium {
+    background: #78350F;
+    color: #FCD34D;
+}
+
+.dark .priority-low {
+    background: #374151;
+    color: #D1D5DB;
+}

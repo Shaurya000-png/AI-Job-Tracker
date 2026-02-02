@@ -1,0 +1,124 @@
+.reminders-page {
+    max-width: 900px;
+}
+
+.filter-tabs {
+    display: flex;
+    gap: 0.5rem;
+    margin-bottom: 2rem;
+    border-bottom: 2px solid var(--color-border);
+}
+
+.tab {
+    padding: 0.75rem 1.5rem;
+    background: none;
+    border: none;
+    border-bottom: 2px solid transparent;
+    margin-bottom: -2px;
+    cursor: pointer;
+    font-weight: 500;
+    color: var(--color-text-secondary);
+    transition: all var(--transition-fast);
+}
+
+.tab:hover {
+    color: var(--color-text);
+}
+
+.tab.active {
+    color: var(--color-primary);
+    border-bottom-color: var(--color-primary);
+}
+
+.reminders-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.reminder-card {
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    gap: 1rem;
+}
+
+.reminder-card.completed {
+    opacity: 0.6;
+}
+
+.reminder-card.completed h3 {
+    text-decoration: line-through;
+}
+
+.reminder-card.overdue {
+    border-left: 3px solid var(--color-danger);
+}
+
+.reminder-main {
+    display: flex;
+    gap: 1rem;
+    flex: 1;
+}
+
+.reminder-checkbox {
+    margin-top: 0.25rem;
+    width: 18px;
+    height: 18px;
+    cursor: pointer;
+}
+
+.reminder-content {
+    flex: 1;
+}
+
+.reminder-content h3 {
+    margin: 0 0 0.5rem 0;
+    font-size: 1.125rem;
+}
+
+.reminder-desc {
+    color: var(--color-text-secondary);
+    font-size: 0.875rem;
+    margin-bottom: 0.5rem;
+}
+
+.reminder-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    font-size: 0.813rem;
+    color: var(--color-text-secondary);
+}
+
+.reminder-job {
+    font-weight: 500;
+}
+
+.overdue-text {
+    color: var(--color-danger);
+    font-weight: 500;
+}
+
+.reminder-actions {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.reminder-form {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+@media (max-width: 640px) {
+    .reminder-card {
+        flex-direction: column;
+    }
+
+    .reminder-actions {
+        width: 100%;
+        justify-content: space-between;
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "watch": [
+        "."
+    ],
+    "ext": "js,json",
+    "ignore": [
+        "uploads/*",
+        "node_modules/*",
+        "test-validation.js",
+        "*.test.js",
+        "frontend/*",
+        "client/*"
+    ],
+    "delay": "1000"
+}
