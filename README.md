@@ -139,3 +139,4 @@ Enjoy tracking your job applications! 🎉
 ## Development Timeline Log
 
 | Date & Time | Activity Details |
+| --- | --- |
