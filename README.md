@@ -136,3 +136,4 @@ Build output will be in `frontend/dist/` directory.
 4. **Add more features** as needed
 
 Enjoy tracking your job applications! 🎉
+## Development Timeline Log
