@@ -141,3 +141,4 @@ Enjoy tracking your job applications! 🎉
 | Date & Time | Activity Details |
 | --- | --- |
 | 2026-Log-Entry-1 | Clarify AI resume parser integration |
+| 2026-Log-Entry-2 | Add MongoDB schema notes |
