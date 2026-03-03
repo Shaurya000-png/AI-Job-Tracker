@@ -143,3 +143,4 @@ Enjoy tracking your job applications! 🎉
 | 2026-Log-Entry-1 | Clarify AI resume parser integration |
 | 2026-Log-Entry-2 | Add MongoDB schema notes |
 | 2026-Log-Entry-3 | Fix typo in database setup instructions |
+| 2026-Log-Entry-4 | Improve README clarity in section 4 |
