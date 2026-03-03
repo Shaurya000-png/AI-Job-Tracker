@@ -147,3 +147,4 @@ Enjoy tracking your job applications! 🎉
 | 2026-Log-Entry-5 | Clarify AI resume parser integration |
 | 2026-Log-Entry-6 | Improve README clarity in section 6 |
 | 2026-Log-Entry-7 | Update analytics logic explanation |
+| 2026-Log-Entry-8 | Document Express route handlers |
