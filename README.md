@@ -152,3 +152,4 @@ Enjoy tracking your job applications! 🎉
 | 2026-Log-Entry-10 | Add notes on state management |
 | 2026-Log-Entry-11 | Expand backend troubleshooting section |
 | 2026-Log-Entry-12 | Document authentication flow |
+| 2026-Log-Entry-13 | Add notes on JWT expiration |
