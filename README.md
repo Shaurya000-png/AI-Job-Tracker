@@ -154,3 +154,4 @@ Enjoy tracking your job applications! 🎉
 | 2026-Log-Entry-12 | Document authentication flow |
 | 2026-Log-Entry-13 | Add notes on JWT expiration |
 | 2026-Log-Entry-14 | Document latest bug fixes in dashboard |
+| 2026-Log-Entry-15 | Update analytics logic explanation |
