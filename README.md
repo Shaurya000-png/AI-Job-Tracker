@@ -150,3 +150,4 @@ Enjoy tracking your job applications! 🎉
 | 2026-Log-Entry-8 | Document Express route handlers |
 | 2026-Log-Entry-9 | Document Tailwind CSS utility classes used |
 | 2026-Log-Entry-10 | Add notes on state management |
+| 2026-Log-Entry-11 | Expand backend troubleshooting section |
