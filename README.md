@@ -160,3 +160,4 @@ Enjoy tracking your job applications! 🎉
 | 2026-Log-Entry-18 | Document latest bug fixes in dashboard |
 | 2026-Log-Entry-19 | Add frontend testing guidelines |
 | 2026-Log-Entry-20 | Document Tailwind CSS utility classes used |
+| 2026-Log-Entry-21 | Clarify AI resume parser integration |
