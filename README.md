@@ -163,3 +163,4 @@ Enjoy tracking your job applications! 🎉
 | 2026-Log-Entry-21 | Clarify AI resume parser integration |
 | 2026-Log-Entry-22 | Expand backend troubleshooting section |
 | 2026-Log-Entry-23 | Document latest bug fixes in dashboard |
+| 2026-Log-Entry-24 | Document Tailwind CSS utility classes used |
