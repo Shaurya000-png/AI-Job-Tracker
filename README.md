@@ -169,3 +169,4 @@ Enjoy tracking your job applications! 🎉
 | 2026-Log-Entry-27 | Update React component documentation |
 | 2026-Log-Entry-28 | Add frontend testing guidelines |
 | 2026-Log-Entry-29 | Add MongoDB schema notes |
+| 2026-Log-Entry-30 | Update analytics logic explanation |
