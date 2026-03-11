@@ -173,3 +173,4 @@ Enjoy tracking your job applications! 🎉
 | 2026-Log-Entry-31 | Add notes on state management |
 | 2026-Log-Entry-32 | Document edge cases in resume parsing |
 | 2026-Log-Entry-33 | Fix typo in database setup instructions |
+| 2026-Log-Entry-34 | Add responsive design notes |
