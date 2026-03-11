@@ -177,3 +177,4 @@ Enjoy tracking your job applications! 🎉
 | 2026-Log-Entry-35 | Document Tailwind CSS utility classes used |
 | 2026-Log-Entry-36 | Update frontend dependencies table |
 | 2026-Log-Entry-37 | Update analytics logic explanation |
+| 2026-Log-Entry-38 | Update frontend dependencies table |
