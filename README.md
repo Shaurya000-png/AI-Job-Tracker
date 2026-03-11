@@ -175,3 +175,4 @@ Enjoy tracking your job applications! 🎉
 | 2026-Log-Entry-33 | Fix typo in database setup instructions |
 | 2026-Log-Entry-34 | Add responsive design notes |
 | 2026-Log-Entry-35 | Document Tailwind CSS utility classes used |
+| 2026-Log-Entry-36 | Update frontend dependencies table |
