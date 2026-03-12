@@ -179,3 +179,4 @@ Enjoy tracking your job applications! 🎉
 | 2026-Log-Entry-37 | Update analytics logic explanation |
 | 2026-Log-Entry-38 | Update frontend dependencies table |
 | 2026-Log-Entry-39 | Add MongoDB schema notes |
+| 2026-Log-Entry-40 | Document edge cases in resume parsing |
