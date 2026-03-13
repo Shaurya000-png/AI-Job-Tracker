@@ -188,3 +188,4 @@ Enjoy tracking your job applications! 🎉
 | 2026-Log-Entry-46 | Document authentication flow |
 | 2026-Log-Entry-47 | Clarify AI resume parser integration |
 | 2026-Log-Entry-48 | Document edge cases in resume parsing |
+| 2026-Log-Entry-49 | Add responsive design notes |
