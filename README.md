@@ -186,3 +186,4 @@ Enjoy tracking your job applications! 🎉
 | 2026-Log-Entry-44 | Expand backend troubleshooting section |
 | 2026-Log-Entry-45 | Add MongoDB schema notes |
 | 2026-Log-Entry-46 | Document authentication flow |
+| 2026-Log-Entry-47 | Clarify AI resume parser integration |
