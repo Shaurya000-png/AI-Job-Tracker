@@ -197,3 +197,4 @@ Enjoy tracking your job applications! 🎉
 | 2026-Log-Entry-55 | Document edge cases in resume parsing |
 | 2026-Log-Entry-56 | Fix typo in database setup instructions |
 | 2026-Log-Entry-57 | Document edge cases in resume parsing |
+| 2026-Log-Entry-58 | Clarify AI resume parser integration |
