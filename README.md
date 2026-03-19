@@ -199,3 +199,4 @@ Enjoy tracking your job applications! 🎉
 | 2026-Log-Entry-57 | Document edge cases in resume parsing |
 | 2026-Log-Entry-58 | Clarify AI resume parser integration |
 | 2026-Log-Entry-59 | Document latest bug fixes in dashboard |
+| 2026-Log-Entry-60 | Improve README clarity in section 60 |
