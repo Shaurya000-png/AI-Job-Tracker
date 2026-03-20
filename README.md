@@ -208,3 +208,4 @@ Enjoy tracking your job applications! 🎉
 | 2026-Log-Entry-66 | Improve README clarity in section 66 |
 | 2026-Log-Entry-67 | Add responsive design notes |
 | 2026-Log-Entry-68 | Document latest bug fixes in dashboard |
+| 2026-Log-Entry-69 | Add notes on JWT expiration |
