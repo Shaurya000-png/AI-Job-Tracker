@@ -204,3 +204,4 @@ Enjoy tracking your job applications! 🎉
 | 2026-Log-Entry-62 | Fix typo in database setup instructions |
 | 2026-Log-Entry-63 | Add responsive design notes |
 | 2026-Log-Entry-64 | Add notes on JWT expiration |
+| 2026-Log-Entry-65 | Document Tailwind CSS utility classes used |
