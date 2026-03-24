@@ -211,3 +211,4 @@ Enjoy tracking your job applications! 🎉
 | 2026-Log-Entry-69 | Add notes on JWT expiration |
 | 2026-Log-Entry-70 | Clarify AI resume parser integration |
 | 2026-Log-Entry-71 | Document edge cases in resume parsing |
+| 2026-Log-Entry-72 | Document authentication flow |
