@@ -215,3 +215,4 @@ Enjoy tracking your job applications! 🎉
 | 2026-Log-Entry-73 | Update frontend dependencies table |
 | 2026-Log-Entry-74 | Refine UI mockup descriptions |
 | 2026-Log-Entry-75 | Add responsive design notes |
+| 2026-Log-Entry-76 | Add frontend testing guidelines |
