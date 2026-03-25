@@ -217,3 +217,4 @@ Enjoy tracking your job applications! 🎉
 | 2026-Log-Entry-75 | Add responsive design notes |
 | 2026-Log-Entry-76 | Add frontend testing guidelines |
 | 2026-Log-Entry-77 | Update analytics logic explanation |
+| 2026-Log-Entry-78 | Document Express route handlers |
