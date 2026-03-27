@@ -230,3 +230,4 @@ Enjoy tracking your job applications! 🎉
 | 2026-Log-Entry-88 | Add MongoDB schema notes |
 | 2026-Log-Entry-89 | Update React component documentation |
 | 2026-Log-Entry-90 | Update React component documentation |
+| 2026-Log-Entry-91 | Document Tailwind CSS utility classes used |
