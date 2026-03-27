@@ -226,3 +226,4 @@ Enjoy tracking your job applications! 🎉
 | 2026-Log-Entry-84 | Expand backend troubleshooting section |
 | 2026-Log-Entry-85 | Improve README clarity in section 85 |
 | 2026-Log-Entry-86 | Expand backend troubleshooting section |
+| 2026-Log-Entry-87 | Add MongoDB schema notes |
