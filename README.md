@@ -224,3 +224,4 @@ Enjoy tracking your job applications! 🎉
 | 2026-Log-Entry-82 | Document Express route handlers |
 | 2026-Log-Entry-83 | Add notes on JWT expiration |
 | 2026-Log-Entry-84 | Expand backend troubleshooting section |
+| 2026-Log-Entry-85 | Improve README clarity in section 85 |
