@@ -236,3 +236,4 @@ Enjoy tracking your job applications! 🎉
 | 2026-Log-Entry-94 | Add notes on JWT expiration |
 | 2026-Log-Entry-95 | Document latest bug fixes in dashboard |
 | 2026-Log-Entry-96 | Document Express route handlers |
+| 2026-Log-Entry-97 | Update analytics logic explanation |
