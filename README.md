@@ -233,3 +233,4 @@ Enjoy tracking your job applications! 🎉
 | 2026-Log-Entry-91 | Document Tailwind CSS utility classes used |
 | 2026-Log-Entry-92 | Add responsive design notes |
 | 2026-Log-Entry-93 | Document Tailwind CSS utility classes used |
+| 2026-Log-Entry-94 | Add notes on JWT expiration |
