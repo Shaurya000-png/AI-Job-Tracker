@@ -241,3 +241,4 @@ Enjoy tracking your job applications! 🎉
 | 2026-Log-Entry-99 | Clarify AI resume parser integration |
 | 2026-Log-Entry-100 | Refactor API endpoints overview |
 | 2026-Log-Entry-101 | Add notes on state management |
+| 2026-Log-Entry-102 | Add responsive design notes |
