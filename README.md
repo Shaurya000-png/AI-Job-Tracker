@@ -247,3 +247,4 @@ Enjoy tracking your job applications! 🎉
 | 2026-Log-Entry-105 | Document authentication flow |
 | 2026-Log-Entry-106 | Improve README clarity in section 106 |
 | 2026-Log-Entry-107 | Document Express route handlers |
+| 2026-Log-Entry-108 | Expand backend troubleshooting section |
