@@ -267,3 +267,4 @@ Enjoy tracking your job applications! 🎉
 | 2026-Log-Entry-125 | Refine UI mockup descriptions |
 | 2026-Log-Entry-126 | Document Tailwind CSS utility classes used |
 | 2026-Log-Entry-127 | Document Tailwind CSS utility classes used |
+| 2026-Log-Entry-128 | Fix typo in database setup instructions |
