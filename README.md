@@ -269,3 +269,4 @@ Enjoy tracking your job applications! 🎉
 | 2026-Log-Entry-127 | Document Tailwind CSS utility classes used |
 | 2026-Log-Entry-128 | Fix typo in database setup instructions |
 | 2026-Log-Entry-129 | Refine UI mockup descriptions |
+| 2026-Log-Entry-130 | Add MongoDB schema notes |
