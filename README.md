@@ -276,3 +276,4 @@ Enjoy tracking your job applications! 🎉
 | 2026-Log-Entry-134 | Add MongoDB schema notes |
 | 2026-Log-Entry-135 | Document Express route handlers |
 | 2026-Log-Entry-136 | Document Tailwind CSS utility classes used |
+| 2026-Log-Entry-137 | Add notes on state management |
