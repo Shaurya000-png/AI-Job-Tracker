@@ -279,3 +279,4 @@ Enjoy tracking your job applications! 🎉
 | 2026-Log-Entry-137 | Add notes on state management |
 | 2026-Log-Entry-138 | Update analytics logic explanation |
 | 2026-Log-Entry-139 | Document edge cases in resume parsing |
+| 2026-Log-Entry-140 | Refine UI mockup descriptions |
