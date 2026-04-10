@@ -284,3 +284,4 @@ Enjoy tracking your job applications! 🎉
 | 2026-Log-Entry-142 | Update frontend dependencies table |
 | 2026-Log-Entry-143 | Update analytics logic explanation |
 | 2026-Log-Entry-144 | Add frontend testing guidelines |
+| 2026-Log-Entry-145 | Refactor API endpoints overview |
