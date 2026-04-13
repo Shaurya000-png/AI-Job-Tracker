@@ -286,3 +286,4 @@ Enjoy tracking your job applications! 🎉
 | 2026-Log-Entry-144 | Add frontend testing guidelines |
 | 2026-Log-Entry-145 | Refactor API endpoints overview |
 | 2026-Log-Entry-146 | Add notes on state management |
+| 2026-Log-Entry-147 | Add MongoDB schema notes |
