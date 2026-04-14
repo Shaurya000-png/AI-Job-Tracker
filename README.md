@@ -294,3 +294,4 @@ Enjoy tracking your job applications! 🎉
 | 2026-Log-Entry-152 | Add notes on JWT expiration |
 | 2026-Log-Entry-153 | Improve code structure documentation |
 | 2026-Log-Entry-154 | Fix typo in database setup instructions |
+| 2026-Log-Entry-155 | Refine UI mockup descriptions |
