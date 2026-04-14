@@ -291,3 +291,4 @@ Enjoy tracking your job applications! 🎉
 | 2026-Log-Entry-149 | Refine UI mockup descriptions |
 | 2026-Log-Entry-150 | Document Express route handlers |
 | 2026-Log-Entry-151 | Improve code structure documentation |
+| 2026-Log-Entry-152 | Add notes on JWT expiration |
