@@ -303,3 +303,4 @@ Enjoy tracking your job applications! 🎉
 | 2026-Log-Entry-161 | Document authentication flow |
 | 2026-Log-Entry-162 | Fix typo in database setup instructions |
 | 2026-Log-Entry-163 | Update React component documentation |
+| 2026-Log-Entry-164 | Document Tailwind CSS utility classes used |
