@@ -308,3 +308,4 @@ Enjoy tracking your job applications! 🎉
 | 2026-Log-Entry-166 | Document authentication flow |
 | 2026-Log-Entry-167 | Add notes on state management |
 | 2026-Log-Entry-168 | Fix typo in database setup instructions |
+| 2026-Log-Entry-169 | Document Express route handlers |
