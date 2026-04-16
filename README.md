@@ -305,3 +305,4 @@ Enjoy tracking your job applications! 🎉
 | 2026-Log-Entry-163 | Update React component documentation |
 | 2026-Log-Entry-164 | Document Tailwind CSS utility classes used |
 | 2026-Log-Entry-165 | Update frontend dependencies table |
+| 2026-Log-Entry-166 | Document authentication flow |
