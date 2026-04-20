@@ -316,3 +316,4 @@ Enjoy tracking your job applications! 🎉
 | 2026-Log-Entry-174 | Refine UI mockup descriptions |
 | 2026-Log-Entry-175 | Update frontend dependencies table |
 | 2026-Log-Entry-176 | Fix typo in database setup instructions |
+| 2026-Log-Entry-177 | Document Express route handlers |
