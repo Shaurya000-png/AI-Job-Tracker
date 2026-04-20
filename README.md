@@ -318,3 +318,4 @@ Enjoy tracking your job applications! 🎉
 | 2026-Log-Entry-176 | Fix typo in database setup instructions |
 | 2026-Log-Entry-177 | Document Express route handlers |
 | 2026-Log-Entry-178 | Add notes on JWT expiration |
+| 2026-Log-Entry-179 | Document Express route handlers |
