@@ -323,3 +323,4 @@ Enjoy tracking your job applications! 🎉
 | 2026-Log-Entry-181 | Improve code structure documentation |
 | 2026-Log-Entry-182 | Refine UI mockup descriptions |
 | 2026-Log-Entry-183 | Refine UI mockup descriptions |
+| 2026-Log-Entry-184 | Document edge cases in resume parsing |
