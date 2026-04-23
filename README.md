@@ -333,3 +333,4 @@ Enjoy tracking your job applications! 🎉
 | 2026-Log-Entry-191 | Document latest bug fixes in dashboard |
 | 2026-Log-Entry-192 | Improve code structure documentation |
 | 2026-Log-Entry-193 | Update frontend dependencies table |
+| 2026-Log-Entry-194 | Expand backend troubleshooting section |
