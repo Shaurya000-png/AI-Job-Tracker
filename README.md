@@ -345,3 +345,4 @@ Enjoy tracking your job applications! 🎉
 | 2026-Log-Entry-203 | Update analytics logic explanation |
 | 2026-Log-Entry-204 | Improve code structure documentation |
 | 2026-Log-Entry-205 | Document latest bug fixes in dashboard |
+| 2026-Log-Entry-206 | Add notes on JWT expiration |
