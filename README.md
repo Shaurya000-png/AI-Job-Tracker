@@ -341,3 +341,4 @@ Enjoy tracking your job applications! 🎉
 | 2026-Log-Entry-199 | Update analytics logic explanation |
 | 2026-Log-Entry-200 | Add frontend testing guidelines |
 | 2026-Log-Entry-201 | Add notes on JWT expiration |
+| 2026-Log-Entry-202 | Improve README clarity in section 202 |
