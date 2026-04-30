@@ -353,3 +353,4 @@ Enjoy tracking your job applications! 🎉
 | 2026-Log-Entry-211 | Document Tailwind CSS utility classes used |
 | 2026-Log-Entry-212 | Document edge cases in resume parsing |
 | 2026-Log-Entry-213 | Update analytics logic explanation |
+| 2026-Log-Entry-214 | Clarify AI resume parser integration |
