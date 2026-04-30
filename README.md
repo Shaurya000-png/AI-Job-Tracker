@@ -349,3 +349,4 @@ Enjoy tracking your job applications! 🎉
 | 2026-Log-Entry-207 | Expand backend troubleshooting section |
 | 2026-Log-Entry-208 | Document Tailwind CSS utility classes used |
 | 2026-Log-Entry-209 | Update React component documentation |
+| 2026-Log-Entry-210 | Update frontend dependencies table |
