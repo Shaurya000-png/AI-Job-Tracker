@@ -1,6 +1,6 @@
 # Job Tracker - Quick Start Guide
 
-## 🚀 Running the Application
+##  Running the Application
 
 ### Backend Setup
 
@@ -48,7 +48,7 @@
 
 ---
 
-## 📋 Features Overview
+##  Features Overview
 
 ### ✅ Authentication
 - Secure login and registration
@@ -84,7 +84,7 @@
 
 ---
 
-## 🎨 Theme
+##  Theme
 
 Toggle between Light, Dark, and System themes from:
 - Navbar (moon/sun icon)
@@ -92,7 +92,7 @@ Toggle between Light, Dark, and System themes from:
 
 ---
 
-## 📦 Production Build
+##  Production Build
 
 To create a production build:
 
@@ -105,7 +105,7 @@ Build output will be in `frontend/dist/` directory.
 
 ---
 
-## 🔧 Troubleshooting
+##  Troubleshooting
 
 **Backend not connecting?**
 - Check MongoDB is running
@@ -121,14 +121,14 @@ Build output will be in `frontend/dist/` directory.
 
 ---
 
-## 📚 Documentation
+##  Documentation
 
 - **API Reference**: `backend/API_REFERENCE.md`
 - **Documentation**: See individual modules for details.
 
 ---
 
-## 🎯 Next Steps
+##  Next Steps
 
 1. **Test all features** to ensure everything works
 2. **Customize** the app to your needs
